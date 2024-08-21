@@ -1,0 +1,2 @@
+# ideastaki
+repositorio1
