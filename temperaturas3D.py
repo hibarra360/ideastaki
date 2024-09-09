@@ -1,4 +1,4 @@
-import pip install numpy
+import numpy as np
 
 # Definir dimensiones: 3 ciudades, 7 días, 4 semanas
 num_ciudades = 3
